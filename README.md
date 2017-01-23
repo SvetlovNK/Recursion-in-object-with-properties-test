@@ -6,14 +6,23 @@
 На входе объект:
 
 var trunk = {
+
     listItem1: 1,
+    
     subList: {
+    
         subSubList: {
+        
             subSubListItem1: 1,
+            
             subSubListItem2: 'green'
+            
         },
+        
         subListItem1: 'blue'
+        
         }
+        
 }; 
 
 ---------------------------------------------------
