@@ -12,7 +12,7 @@ var trunk = {
             subSubListItem2: 'green'
         },
         subListItem1: 'blue'
-    }
+        }
 }; 
 
 ---------------------------------------------------
